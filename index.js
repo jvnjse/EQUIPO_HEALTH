@@ -5,6 +5,8 @@ var barColors = ["#7cb5eb", "#424448", "#90ef7c", "#f6a45c", "#7f86e7","#424448"
 // canvas.width = chart1-container.clientWidth;
 // canvas.height = theDiv.clientHeight;
 
+
+
 new Chart("myChart1", {
     type: "bar",
     data: {
